@@ -1,4 +1,5 @@
 # Movie_list
+
 Input
 The application allows users to input movie details, including the title, genre, release year, and rating. This information is entered through a user-friendly interface, ensuring that all necessary fields are completed before submission. Input validation mechanisms are in place to maintain data integrity and prevent errors.
 
